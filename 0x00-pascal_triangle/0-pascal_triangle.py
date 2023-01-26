@@ -4,16 +4,16 @@
 
 def pascal_triangle(n):
     """Prints the pascal triangle upto the n'th row.
-....Parameters
-....----------
-....n : int
-........The row upto which the triangle should be printed
-........
-....Returns
-....-------
-....list of lists of integers
-........A list of lists that represents the traingle rows and columns
-...."""
+    Parameters
+    ----------
+    n : int
+        The row upto which the triangle should be printed
+
+    Returns
+    -------
+    list of lists of integers
+        A list of lists that represents the traingle rows and columns
+    """
 
     # Declare empty outer list. Outer list represents the triangle.
     # row represents each row of the trianlge, which contains another list
