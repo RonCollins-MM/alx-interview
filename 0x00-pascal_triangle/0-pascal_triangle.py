@@ -4,6 +4,7 @@
 
 def pascal_triangle(n):
     """Prints the pascal triangle upto the n'th row.
+    
     Parameters
     ----------
     n : int
