@@ -4,9 +4,10 @@
 This module contains a function that prints the pascals triangle.
 """
 
+
 def pascal_triangle(n):
     """Prints the pascal triangle upto the n'th row.
-    
+
     Parameters
     ----------
     n : int
